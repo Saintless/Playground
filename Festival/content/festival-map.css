@@ -1,0 +1,11 @@
+.festival-map {
+    background: url('../images/festival-map.png');
+}
+
+.location-name {
+    font-weight: bold;
+}
+
+.stage {
+    color: #EE3F22;
+}
